@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "224b867e19465fc297ed0de80dbc6fab",
+    "revision": "191ed5e832124e648bccd6a05110e3d1",
     "url": "/DailyCalories/index.html"
   },
   {
-    "revision": "28614351ac1edfc67e08",
+    "revision": "faf455c1b7efa58b6dfa",
     "url": "/DailyCalories/static/css/main.d4bdc838.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DailyCalories/static/js/2.7ee9ac24.chunk.js"
   },
   {
-    "revision": "28614351ac1edfc67e08",
-    "url": "/DailyCalories/static/js/main.b96e51c1.chunk.js"
+    "revision": "faf455c1b7efa58b6dfa",
+    "url": "/DailyCalories/static/js/main.b92b78f5.chunk.js"
   },
   {
     "revision": "18d09e3c7430256ec65d",
