@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DailyCalories/static/css/main.d4bdc838.chunk.css",
-    "main.js": "/DailyCalories/static/js/main.ada83256.chunk.js",
-    "main.js.map": "/DailyCalories/static/js/main.ada83256.chunk.js.map",
-    "runtime~main.js": "/DailyCalories/static/js/runtime~main.d14733bf.js",
-    "runtime~main.js.map": "/DailyCalories/static/js/runtime~main.d14733bf.js.map",
-    "static/js/2.d5f9562e.chunk.js": "/DailyCalories/static/js/2.d5f9562e.chunk.js",
-    "static/js/2.d5f9562e.chunk.js.map": "/DailyCalories/static/js/2.d5f9562e.chunk.js.map",
-    "index.html": "/DailyCalories/index.html",
-    "precache-manifest.48994b6808ba6d8fb83be6acd266d8ac.js": "/DailyCalories/precache-manifest.48994b6808ba6d8fb83be6acd266d8ac.js",
-    "service-worker.js": "/DailyCalories/service-worker.js",
-    "static/css/main.d4bdc838.chunk.css.map": "/DailyCalories/static/css/main.d4bdc838.chunk.css.map"
+    "main.css": "./static/css/main.d4bdc838.chunk.css",
+    "main.js": "./static/js/main.86a89e4f.chunk.js",
+    "main.js.map": "./static/js/main.86a89e4f.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.d5f9562e.chunk.js": "./static/js/2.d5f9562e.chunk.js",
+    "static/js/2.d5f9562e.chunk.js.map": "./static/js/2.d5f9562e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.536be5730e10d99bfa2e0ce16bd9bef0.js": "./precache-manifest.536be5730e10d99bfa2e0ce16bd9bef0.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d4bdc838.chunk.css.map": "./static/css/main.d4bdc838.chunk.css.map"
   }
 }
