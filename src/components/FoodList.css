@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+}
+
+td.removeFoodBtnTd {
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+.removeFoodBtn {
+  display: block;
+}
+.caloriesTd {
+  width: 30%;
+}

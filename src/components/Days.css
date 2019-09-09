@@ -1,0 +1,17 @@
+a.carousel-control-next {
+  position: absolute;
+  background-color: #95a5a6;
+  height: 50px;
+  top: 5px;
+  width: 50px;
+  border-radius: 0.25rem;
+}
+
+a.carousel-control-prev {
+  position: absolute;
+  background-color: #95a5a6;
+  height: 50px;
+  top: 5px;
+  width: 50px;
+  border-radius: 0.25rem;
+}

@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.dayNavigation {
+  margin: 20px;
+}
+
+.dayNavigation h3 {
+  color: black;
+}
+
+button {
+  width: auto;
+}

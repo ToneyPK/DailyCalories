@@ -1,0 +1,37 @@
+.loginContainer {
+  text-align: center;
+}
+
+.mainTitle {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.subtitle {
+  color: #2c3e50;
+  margin-bottom: 2%;
+}
+.registerLink {
+  display: block;
+  margin-top: 2%;
+}
+.loginForm {
+  margin: 0 auto;
+  width: 33%;
+  color: lightslategray;
+}
+.titleDailyPart {
+  color: #e74c3c;
+}
+.loginLabels {
+  text-align: left;
+}
+.loginButton {
+  display: block;
+  width: 100%;
+}
+span.error {
+  color: #e74c3c;
+  font-weight: bold;
+  display: block;
+  margin-top: 10%;
+}

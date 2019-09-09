@@ -1,0 +1,29 @@
+h1 {
+  color: black;
+}
+.titleDailyPart {
+  color: #e74c3c;
+}
+.container {
+  margin-top: 2%;
+}
+
+.logoutButton {
+  display: block;
+  width: 100px;
+  height: fit-content;
+  margin: auto;
+  margin-left: 66%;
+  margin-right: 0;
+}
+.logoutCol {
+  display: flex;
+}
+.fa-info-circle {
+  color: lightgray;
+  margin: auto;
+  margin-left: 3%;
+}
+.fa-info-circle:hover {
+  color: #3498db;
+}
