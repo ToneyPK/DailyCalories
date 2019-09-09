@@ -5,8 +5,9 @@ https://dailycalories.herokuapp.com/
 
 Technologies used:
 
-	-Spring Boot (Web,Security, Data REST, Data MongoDB, JJWT)
+	-Spring Boot (Web, Security, Data REST, Data MongoDB, JJWT)
 	-React + Redux
+	-React-Bootstrap library
 	-MongoDB
 
 Developed by Antonio Pekeljevic
