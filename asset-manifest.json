@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DailyCalories/static/css/main.d4bdc838.chunk.css",
-    "main.js": "/DailyCalories/static/js/main.b92b78f5.chunk.js",
-    "main.js.map": "/DailyCalories/static/js/main.b92b78f5.chunk.js.map",
+    "main.js": "/DailyCalories/static/js/main.bd5f31f5.chunk.js",
+    "main.js.map": "/DailyCalories/static/js/main.bd5f31f5.chunk.js.map",
     "runtime~main.js": "/DailyCalories/static/js/runtime~main.d14733bf.js",
     "runtime~main.js.map": "/DailyCalories/static/js/runtime~main.d14733bf.js.map",
-    "static/js/2.7ee9ac24.chunk.js": "/DailyCalories/static/js/2.7ee9ac24.chunk.js",
-    "static/js/2.7ee9ac24.chunk.js.map": "/DailyCalories/static/js/2.7ee9ac24.chunk.js.map",
+    "static/js/2.fe14366e.chunk.js": "/DailyCalories/static/js/2.fe14366e.chunk.js",
+    "static/js/2.fe14366e.chunk.js.map": "/DailyCalories/static/js/2.fe14366e.chunk.js.map",
     "index.html": "/DailyCalories/index.html",
-    "precache-manifest.dbcf931e5cfbd32d175ebcc2fb660aa0.js": "/DailyCalories/precache-manifest.dbcf931e5cfbd32d175ebcc2fb660aa0.js",
+    "precache-manifest.b05e5493fddfa41d9543e29923799253.js": "/DailyCalories/precache-manifest.b05e5493fddfa41d9543e29923799253.js",
     "service-worker.js": "/DailyCalories/service-worker.js",
     "static/css/main.d4bdc838.chunk.css.map": "/DailyCalories/static/css/main.d4bdc838.chunk.css.map"
   }
