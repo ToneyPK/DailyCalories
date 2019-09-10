@@ -5,7 +5,7 @@ import axios from "axios";
 export const getDays = id => async dispatch => {
   const res = await axios.get(`${url}/days/user/${id}`, {
     headers: {
-      Authorization: `Bearer ${localStorage.getItem("token")}`
+      Authorization: `${localStorage.getItem("token")}`
     }
   });
   dispatch({
