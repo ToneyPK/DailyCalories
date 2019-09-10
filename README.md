@@ -9,7 +9,9 @@ Technologies used:
 	-React + Redux
 	-React-Bootstrap library
 	-MongoDB
-	
+
+Redux Dev Tools are enabled.
+
 Back-end is located in the "api" folder.
 To use this application just run the front-end locally and it will automatically connect to online back-end.
 
