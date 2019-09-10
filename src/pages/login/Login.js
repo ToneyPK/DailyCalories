@@ -30,6 +30,10 @@ class Login extends Component {
     });
   };
 
+  guestLogin = () => {
+    this.props.loginUser("guest321", "guest321");
+  };
+
   getError = () => {
     if (this.state.error === "") {
       let error = this.props.error;
@@ -77,6 +81,14 @@ class Login extends Component {
             type="submit"
           >
             Login
+          </Button>
+          <Button
+            className="loginGuestButton"
+            size="lg"
+            variant="secondary"
+            onClick={this.guestLogin}
+          >
+            Try as Guest
           </Button>
           <span className="error">{this.state.error}</span>
         </Form>

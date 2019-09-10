@@ -29,6 +29,11 @@
   display: block;
   width: 100%;
 }
+.loginGuestButton {
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+}
 span.error {
   color: #e74c3c;
   font-weight: bold;
