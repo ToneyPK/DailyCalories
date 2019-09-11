@@ -1,1 +1,1 @@
-export const url = "https://secret-ridge-01197.herokuapp.com";
+export const url = "https://dailycaloriesbackend.herokuapp.com";
