@@ -11,4 +11,7 @@ div.progressBar {
   .caloriesFieldsContainer .row {
     display: block;
   }
+  .caloriesFieldsContainer .row .col {
+    padding: 0;
+  }
 }

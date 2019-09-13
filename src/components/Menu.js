@@ -21,12 +21,12 @@ class Menu extends Component {
       <Container className="container">
         <Row>
           <Col>
-            <h1>
+            <h1 className="mainTitle">
               <span className="titleDailyPart">Daily</span>Calories
             </h1>
           </Col>
           <Col className="logoutCol">
-            <Button className="logoutButton" onClick={onClick}>
+            <Button className="logoutButton" variant="light" onClick={onClick}>
               Logout
             </Button>
 

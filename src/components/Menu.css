@@ -1,4 +1,4 @@
-h1 {
+.mainTitle {
   color: black;
 }
 .titleDailyPart {
@@ -30,14 +30,24 @@ h1 {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 479px) {
   div.logoutCol.col {
-    display: block;
+    display: flex;
+    padding: 0;
+    text-align: right;
   }
   div.logoutCol.col button {
-    width: 100%;
+    width: auto;
     margin: auto;
-    display: block;
+    margin-left: 1%;
+    float: right;
   }
   .fa-info-circle {
     margin-top: 3%;
+    size: 50%;
+  }
+  .mainTitle {
+    font-size: 1.4em;
+  }
+  .container .row {
+    margin: auto;
   }
 }

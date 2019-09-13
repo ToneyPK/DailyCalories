@@ -20,7 +20,7 @@ class Day extends Component {
   render() {
     const { id, date, caloriesIn } = this.props.day;
     const { activeUser } = this.props;
-    console.log();
+
     return (
       <div>
         <Row className="dayNavigation">

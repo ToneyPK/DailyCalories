@@ -18,7 +18,14 @@ div.card-header {
 div.card-header:hover {
   background-color: #5cbf2a;
 }
+
 div.card-header:active {
   position: relative;
   top: 1px;
+}
+
+.toggleAddFood {
+  width: auto;
+  padding: 15px;
+  margin: 0 auto;
 }

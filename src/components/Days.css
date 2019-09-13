@@ -15,3 +15,23 @@ a.carousel-control-prev {
   width: 50px;
   border-radius: 0.25rem;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 479px) {
+  a.carousel-control-next {
+    position: absolute;
+    background-color: #95a5a6;
+    height: 30px;
+    top: 0px;
+    width: 30px;
+    border-radius: 0.25rem;
+  }
+
+  a.carousel-control-prev {
+    position: absolute;
+    background-color: #95a5a6;
+    height: 30px;
+    top: 0px;
+    width: 30px;
+    border-radius: 0.25rem;
+  }
+}

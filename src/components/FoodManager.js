@@ -9,7 +9,7 @@ export default class FoodManager extends Component {
   render() {
     const { dayId } = this.props;
     return (
-      <div>
+      <div className="toggleAddFood">
         <Accordion defaultActiveKey="1">
           <Card>
             <Accordion.Toggle as={Card.Header} eventKey="0">
