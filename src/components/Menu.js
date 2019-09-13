@@ -31,6 +31,7 @@ class Menu extends Component {
             </Button>
 
             <OverlayTrigger
+              trigger="hover"
               placement="bottom"
               delay={{ hide: 400 }}
               overlay={
