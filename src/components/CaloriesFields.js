@@ -42,7 +42,7 @@ export default class CaloriesFields extends Component {
     };
 
     return (
-      <Container>
+      <Container className="caloriesFieldsContainer">
         <Row>
           <Col>
             <Alert variant="info">Calories in: {caloriesIn} kcal</Alert>

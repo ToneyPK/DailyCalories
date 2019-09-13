@@ -29,3 +29,12 @@
   display: block;
   width: 100%;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 479px) {
+  .registerForm {
+    width: 90%;
+  }
+  .registerForm .row {
+    display: block;
+  }
+}

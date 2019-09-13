@@ -45,7 +45,7 @@ class AddFood extends Component {
 
   render() {
     return (
-      <Form onSubmit={this.onSubmit}>
+      <Form onSubmit={this.onSubmit} className="addFoodForm">
         <Row>
           <Col>
             <Form.Group>

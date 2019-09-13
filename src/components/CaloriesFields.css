@@ -7,3 +7,8 @@
 div.progressBar {
   height: auto;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 479px) {
+  .caloriesFieldsContainer .row {
+    display: block;
+  }
+}

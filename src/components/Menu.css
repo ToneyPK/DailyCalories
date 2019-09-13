@@ -27,3 +27,17 @@ h1 {
 .fa-info-circle:hover {
   color: #3498db;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 479px) {
+  div.logoutCol.col {
+    display: block;
+  }
+  div.logoutCol.col button {
+    width: 100%;
+    margin: auto;
+    display: block;
+  }
+  .fa-info-circle {
+    margin-top: 3%;
+  }
+}
