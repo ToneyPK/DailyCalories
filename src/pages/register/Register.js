@@ -126,7 +126,7 @@ class Register extends Component {
           </Row>
           <p>{errors.password}</p>
           <Button
-            className="loginButton"
+            className="registerButton"
             size="lg"
             variant="primary"
             type="submit"

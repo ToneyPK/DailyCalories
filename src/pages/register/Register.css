@@ -25,7 +25,7 @@
 .loginLabels {
   text-align: left;
 }
-.loginButton {
+.registerButton {
   display: block;
   width: 100%;
 }
@@ -36,5 +36,8 @@
   }
   .registerForm .row {
     display: block;
+  }
+  .registerButton {
+    margin-bottom: 6%;
   }
 }

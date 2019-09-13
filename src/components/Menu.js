@@ -36,7 +36,8 @@ class Menu extends Component {
               delay={{ hide: 400 }}
               overlay={
                 <Popover>
-                  A new day will be automatically created for the next day.
+                  A new day will be automatically created for the next day. The
+                  current day will be saved so you can see it any time.
                 </Popover>
               }
             >
