@@ -6,8 +6,8 @@ import {
   Row,
   Col,
   Container,
-  Tooltip,
-  OverlayTrigger
+  OverlayTrigger,
+  Popover
 } from "react-bootstrap";
 import "./Menu.css";
 
@@ -35,9 +35,9 @@ class Menu extends Component {
               placement="bottom"
               delay={{ hide: 400 }}
               overlay={
-                <Tooltip>
+                <Popover>
                   A new day will be automatically created for the next day.
-                </Tooltip>
+                </Popover>
               }
             >
               <i className="fas fa-info-circle fa-2x"></i>
