@@ -5,10 +5,13 @@ https://dailycalories.herokuapp.com/
 
 Technologies used:
 
+Back-end:
 	-Spring Boot (Web, Security, Data REST, Data MongoDB, JJWT)
+	-MongoDB
+Front-end:	
 	-React + Redux
 	-React-Bootstrap library
-	-MongoDB
+	
 
 Redux Dev Tools are enabled.
 
