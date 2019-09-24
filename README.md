@@ -3,6 +3,10 @@ DailyCalories is an application for helping users reach specific caloric goals.
 Live Demo on Heroku: (Guest login: username: username, password: password)
 https://dailycalories.herokuapp.com/
 
+Initial idea brainstorming:
+![image link](https://i.imgur.com/FXClSDf.jpg)
+
+
 Technologies used:
 
 Back-end:
